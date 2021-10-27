@@ -1779,3 +1779,8 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+.s-150 {
+  width: 150px;
+  height: 150px;
+}
